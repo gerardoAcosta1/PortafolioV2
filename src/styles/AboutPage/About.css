@@ -1,0 +1,78 @@
+.container2__main {
+
+    height: 100%;
+    max-width: 1200px;
+
+    font-size: 1.5em;
+    margin-top: 5rem;
+    padding: 10px;
+
+    margin-left: 15px;
+}
+
+.title {
+
+    color: gray;
+}
+
+.mi {
+
+    font-family: 'Lumanosimo', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(123, 156, 62, 0.767);
+}
+
+.container2-personal {
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.description2 {
+
+    margin-top: 1em;
+    max-width: 1200px;
+
+    color: rgb(162, 154, 154);
+}
+
+.container-dates {
+
+    max-width: 600px;
+}
+
+.title-personal {
+
+    margin-top: 2.5em;
+    margin-bottom: 1em;
+
+    font-size: 38px;
+
+    color: rgba(167, 161, 161, 0.778);
+}
+
+.list-personal {
+
+    list-style: none;
+    font-size: 20px;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item-personal {
+
+    border-bottom: 0.1px solid gray;
+    margin-bottom: 2em;
+
+    padding: 1em;
+}
+
+.title-item {
+
+    color: rgba(123, 156, 62, 0.846);
+}
+
+.value-item {
+
+    color: rgba(167, 161, 161, 0.778);
+}

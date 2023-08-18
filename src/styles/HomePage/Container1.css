@@ -1,0 +1,58 @@
+.container1__main{
+
+    width: 100%;
+    max-width: 1200px;
+
+    padding: 10px;
+}
+.presentation{
+
+    margin-top: 5rem;
+    
+    font-size: 1.9em ;
+    font-weight: 600;
+
+    color: rgb(94, 90, 90);
+}
+.presentation__dos{
+
+    font-size: 25px;
+    margin-top:.5em;
+
+    color: rgb(126, 120, 120);
+}
+.description{
+
+    margin-top: 1.9rem;
+    font-size: 1.5em;
+
+    line-height: 30px;
+    color: rgb(162, 154, 154);
+}
+.name{
+
+    color: rgba(123, 156, 62, 0.767);
+    font-size: 2rem;
+}
+
+.button__container1{
+    
+    width: 8rem;
+
+    font-size: 15px;
+    font-weight: 500;
+
+    margin-top: 5rem;
+    margin-left: 3em;
+    padding: 12px;
+    
+    border: none;
+    border-radius: 12px;
+    color: rgba(140, 136, 136, 0.824);
+    
+    background-color: rgba(7, 7, 7, 0.767);
+}
+.button__container1 a{
+    
+    color: rgba(243, 232, 232, 0.763);
+}

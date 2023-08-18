@@ -1,0 +1,57 @@
+.contariner3__main{
+    
+    width: 100%;
+    max-width: 1200px;
+
+    
+    
+
+    padding-top: 5rem;
+    
+}
+
+.container3-description{
+  
+    margin-left: .5em;
+    margin-top: 1em;
+
+    color: rgb(180, 167, 167);
+}
+.react{
+    font-size:30px;
+}
+.container-images{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.card-images{
+
+    width: 250px;
+    
+    border: 1px solid black;
+   margin-left: 1em;
+    margin-top: 3em;
+    margin-bottom: 1em;
+    box-shadow: 2px 2px 8px gray;
+}
+.card-image{
+    width: 250px;
+    height: 150px;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: .5em;
+    
+}
+.description__portafolio a{
+
+   
+    padding: 12px;
+
+    display: flex;
+
+    cursor: pointer;
+
+    text-decoration: none;
+    color: rgb(180, 167, 167);
+}
