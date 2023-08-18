@@ -8,7 +8,7 @@ const Portafolio = () => {
             <div className="container-images">
                 <div className="card-images">
                     <a href="https://keen-puppy-7ab9e3.netlify.app/"  target="blanck"><img className="card-image" src="./foto/Portafolio/e-commerce.png" alt="" /></a>
-                    <p className='description__portafolio'><a  target="blanck" href="https://keen-puppy-7ab9e3.netlify.app/">Una aplicación muy completa de e-commerce; se extraen los productos en stock desde una API, se contruye la lógica para filtrar productos por precio y categoría, se utilizan rutas protegidas para redirigir al usuario...</a></p>
+                    <p className='description__portafolio'><a  target="blanck" href="https://keen-puppy-7ab9e3.netlify.app/">Una aplicación muy completa de e-commerce; se extraen los productos en stock desde una API, se contruye la lógica para filtrar productos por precio y categoría, se utilizan rutas protegidas para redirigir al usuario, uso de estados globales y más...</a></p>
                 </div>
                  <div className="card-images">
                     <a href="https://poetic-brioche-1c2bda.netlify.app/"  target="blanck"><img className="card-image" src="./foto/Portafolio/crud2.jpeg" alt="" /></a>
