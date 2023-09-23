@@ -10,6 +10,10 @@ const Portafolio = () => {
                     <a href="https://keen-puppy-7ab9e3.netlify.app/"  target="blanck"><img className="card-image" src="./foto/Portafolio/e-commerce.png" alt="" /></a>
                     <p className='description__portafolio'><a  target="blanck" href="https://keen-puppy-7ab9e3.netlify.app/">Una aplicación muy completa de e-commerce; se extraen los productos en stock desde una API, se contruye la lógica para filtrar productos por precio y categoría, se utilizan rutas protegidas para redirigir al usuario, uso de estados globales y más...</a></p>
                 </div>
+                <div className="card-images">
+                    <a href="https://animated-seahorse-f2a91b.netlify.app/"  target="blanck"><img className="card-image" src="./foto/Portafolio/works.png" alt="" /></a>
+                    <p className='description__portafolio'><a  target="blanck" href="https://animated-seahorse-f2a91b.netlify.app/">Sencillo componente Full-Stack, se trata de un componente que permite agregar y actualizar tareas, nota: se utiliza una base de datos alojada en server gratuito, por tanto el servidor la pone a dormir para ahorrar recurso, la carga de los datos demora aproximadamente 1 minuto</a></p>
+                </div>
                  <div className="card-images">
                     <a href="https://poetic-brioche-1c2bda.netlify.app/"  target="blanck"><img className="card-image" src="./foto/Portafolio/crud2.jpeg" alt="" /></a>
                     <p className='description__portafolio'><a  target="blanck" href="https://poetic-brioche-1c2bda.netlify.app/">Se crea un CRUD para insertar, eliminar, actualizar y leer información de un Api de usuarios</a></p>
