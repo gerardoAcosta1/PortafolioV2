@@ -12,7 +12,7 @@ const Portafolio = () => {
                 </div>
                 <div className="card-images">
                     <a href="https://animated-seahorse-f2a91b.netlify.app/"  target="blanck"><img className="card-image" src="./foto/Portafolio/works.png" alt="" /></a>
-                    <p className='description__portafolio'><a  target="blanck" href="https://animated-seahorse-f2a91b.netlify.app/">Sencillo componente Full-Stack, se trata de un componente que permite agregar y actualizar tareas, nota: se utiliza una base de datos alojada en server gratuito, por tanto el servidor la pone a dormir para ahorrar recurso, la carga de los datos demora aproximadamente 1 minuto</a></p>
+                    <p className='description__portafolio'><a  target="blanck" href="https://animated-seahorse-f2a91b.netlify.app/">Sencillo componente Full-Stack, se trata de un componente que permite agregar y actualizar tareas, nota: se creó la Api en node y se generó la base de datos, esta está alojada en un server gratuito, por tanto el servidor la pone a dormir para ahorrar recurso, la carga de los datos demora aproximadamente 1 minuto</a></p>
                 </div>
                  <div className="card-images">
                     <a href="https://poetic-brioche-1c2bda.netlify.app/"  target="blanck"><img className="card-image" src="./foto/Portafolio/crud2.jpeg" alt="" /></a>
